@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20da2d84-1ebe-48c2-b3bd-c8fb29fb1ec5" name="Default Changelist" comment="" />
+    <list default="true" id="20da2d84-1ebe-48c2-b3bd-c8fb29fb1ec5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +87,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="json" value="1" />
-          <entry key="md" value="464" />
+          <entry key="md" value="472" />
           <entry key="php" value="103" />
           <entry key="sql" value="1" />
           <entry key="txt" value="20" />
@@ -93,7 +96,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="1" />
-          <entry key="Markdown" value="464" />
+          <entry key="Markdown" value="472" />
           <entry key="PHP" value="103" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="Scratch" value="1" />
@@ -153,7 +156,7 @@
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Cartomak_product.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="84" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="84" />
+              <caret line="20" column="84" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -176,19 +179,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Cartomak_product_data.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-390">
@@ -209,6 +212,9 @@
       <find>cartomak_product_ID</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -216,9 +222,9 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/65276d46-5780-47b3-a9b5-483b7b35a33e/console.sql" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/Cartomak_product_data.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/Cartomak_product.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -288,6 +294,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -336,6 +343,10 @@
               <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
               <item name="Entity" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cartomak-product-import" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -345,7 +356,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="/var/www/localhost/html" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -375,12 +386,12 @@
       <workItem from="1542027961920" duration="3560000" />
       <workItem from="1542182302691" duration="9625000" />
       <workItem from="1542276236045" duration="7114000" />
-      <workItem from="1542354818153" duration="7840000" />
+      <workItem from="1542354818153" duration="8736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30323000" />
+    <option name="totallyTimeSpent" value="31219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3847" y="0" width="1920" height="1080" extended-state="6" />
@@ -401,8 +412,8 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.08773784" />
-      <window_info anchor="bottom" id="Database Console" order="13" visible="true" weight="0.14376321" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.08677249" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.14391534" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,27 +472,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" selection-start-line="30" selection-end-line="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://1ae0ef10-5e66-4b9b-8534-fc2e38009352/schema/symfony/table/cartomak_product">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -495,7 +489,7 @@
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Cartomak_product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="84" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="84" />
+          <caret line="20" column="84" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -503,6 +497,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-390">
           <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1ae0ef10-5e66-4b9b-8534-fc2e38009352/schema/symfony/table/cartomak_product">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
