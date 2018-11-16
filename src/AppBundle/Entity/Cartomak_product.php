@@ -18,7 +18,6 @@ class Cartomak_product
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
-     * @ORM\ManyToOne(targetEntity="Cartomak_product_data", inversedBy="cartomakID")
      */
     private $id;
 

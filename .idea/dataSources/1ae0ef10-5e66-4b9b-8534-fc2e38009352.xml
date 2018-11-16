@@ -11960,7 +11960,7 @@ User</ColNames>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="2300" parent="404" name="cartomak_ID">
+    <column id="2300" parent="404" name="cartomakID">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>

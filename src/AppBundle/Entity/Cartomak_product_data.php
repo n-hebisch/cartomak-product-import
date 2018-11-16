@@ -25,8 +25,9 @@ class Cartomak_product_data
      *
      * @var int
      *
-     * @ORM\Column(name="cartomak_ID", type="integer")
-     * @ORM\OneToMany(targetEntity="Cartomak_product", mappedBy="$id")
+     * @ORM\Column(name="cartomakID", type="integer")
+     * @ORM\ManyToOne(targetEntity="Cartomak_product")
+     * @ORM\JoinColumn(name="cartomakID", referencedColumnName="id")
      */
     private $cartomakID;
 
